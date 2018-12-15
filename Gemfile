@@ -8,6 +8,6 @@ gem "pry", :group => "development"
 
 
 
-group :test do
+group :development do
   gem "pry"
 end
